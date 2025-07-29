@@ -1,0 +1,32 @@
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.deps.json
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.AssemblyInfo.cs
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\refint\NewsApp.ApplicationLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\ref\NewsApp.ApplicationLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp..7F312EF0.Up2Date
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.sourcelink.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.deps.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\bin\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.AssemblyInfo.cs
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.sourcelink.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp..7F312EF0.Up2Date
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\refint\NewsApp.ApplicationLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\NewsApp.ApplicationLayer.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.BusinessLogicLayer\obj\Debug\net8.0\ref\NewsApp.ApplicationLayer.dll

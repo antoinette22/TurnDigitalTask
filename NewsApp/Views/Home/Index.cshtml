@@ -1,0 +1,65 @@
+﻿@model NewsListingViewModel
+@{
+    ViewData["Title"] = "Home Page";
+    var selectedCategory = ViewBag.SelectedCategory?.ToString();
+    var categories = ViewBag.Categories as SelectList;
+}
+<form method="get" asp-controller="Home" asp-action="Index">
+    <select name="categorySlug" class="form-select w-25 mb-3" onchange="this.form.submit()">
+        <option value="">All Categories</option>
+        @foreach (var category in Model.Categories)
+        {
+            <option value="@category.Value" selected="@(Model.SelectedCategorySlug == category.Value)">
+                @category.Text
+            </option>
+        }
+    </select>
+</form>
+
+<div class="container mt-4">
+    <div class="row">
+        @foreach (var item in Model.News)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card shadow-sm h-100">
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@item.ImageUrl" class="card-img-top" alt="News image" style="max-height: 200px; object-fit: cover;">
+                    }
+
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">
+                            <a asp-action="Details"
+                               asp-route-categorySlug="@item.category.Slug"
+                               asp-route-newsSlug="@item.Slug"
+                               class="text-decoration-none text-dark">
+                                @item.Title
+                            </a>
+                        </h5>
+
+                        <p class="text-muted mb-1">
+                            <small><i class="bi bi-calendar-event"></i> @item.CreatedAt.ToString("yyyy-MM-dd")</small>
+                        </p>
+
+                        <p class="text-muted mb-1">
+                            <small><i class="bi bi-folder-fill"></i> @item.category?.Title</small>
+                        </p>
+
+                        <p class="card-text text-truncate">
+                            @item.Body
+                        </p>
+
+                        <div class="mt-auto">
+                            <a asp-action="Details"
+                               asp-route-categorySlug="@item.category.Slug"
+                               asp-route-newsSlug="@item.Slug"
+                               class="btn btn-primary btn-sm mt-2">
+                                Read More
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,26 @@
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\bin\Debug\net8.0\NewsApp.Domain.deps.json
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\bin\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\bin\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.AssemblyInfo.cs
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\refint\NewsApp.Domain.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\ref\NewsApp.Domain.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.sourcelink.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\bin\Debug\net8.0\NewsApp.Domain.deps.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\bin\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\bin\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.AssemblyInfo.cs
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.sourcelink.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\refint\NewsApp.Domain.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.Domain\obj\Debug\net8.0\ref\NewsApp.Domain.dll

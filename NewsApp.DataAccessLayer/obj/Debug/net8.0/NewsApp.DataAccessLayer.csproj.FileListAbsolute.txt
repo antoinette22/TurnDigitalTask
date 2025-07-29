@@ -1,0 +1,40 @@
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.deps.json
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp..CF73C297.Up2Date
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\refint\NewsApp.DataAccessLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.pdb
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\ref\NewsApp.DataAccessLayer.dll
+C:\Users\Antoinette Emad\source\repos\NewsApp\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.sourcelink.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.deps.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.runtimeconfig.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.DataAccessLayer.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.Domain.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.ApplicationLayer.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\bin\Debug\net8.0\NewsApp.Domain.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.sourcelink.json
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp..CF73C297.Up2Date
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\refint\NewsApp.DataAccessLayer.dll
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.pdb
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\NewsApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\MICHEAL\OneDrive\Desktop\turnDigital\NewsApp.DataAccessLayer\obj\Debug\net8.0\ref\NewsApp.DataAccessLayer.dll

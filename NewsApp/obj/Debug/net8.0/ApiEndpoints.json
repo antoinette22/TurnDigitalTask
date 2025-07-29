@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "NewsApp.Controllers.NewsAPIController",
+    "Method": "GetAllNews",
+    "RelativePath": "api/NewsAPI/get-all-news",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageindex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pagesize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "categorySlug",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NewsApp.Controllers.NewsAPIController",
+    "Method": "GetNewBySlugs",
+    "RelativePath": "api/NewsAPI/retrieve-new-by-slug",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Categoryslug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewSlug",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

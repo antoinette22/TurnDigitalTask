@@ -1,0 +1,35 @@
+﻿@model IEnumerable<NewsApp.Domain.Models.NewsItem>
+
+@{
+    ViewData["Title"] = "News List";
+    Layout = "_LayoutDashboard";
+}
+
+<h2>News List</h2>
+
+<a class="btn btn-primary mb-3" href="/News/Create">Add News</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Created At</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.category?.Title</td>
+                <td>@item.CreatedAt.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" href="/News/Edit/@item.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/News/Delete/@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
