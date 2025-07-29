@@ -33,6 +33,15 @@ Use the following credentials to log in to the admin dashboard:
 
 ---
 
+## Accessing the Admin Dashboard
+
+To access the **Admin Dashboard**:
+
+1. Run the application.
+2. Open the login page in your browser: "https://localhost:7272/Auth/Login"
+3. Log in using the **admin credentials** above.
+4. After logging in, you will be able to manage **categories** and **news items** directly from the dashboard.
+
 ##  Postman API Testing
 
 A full **Postman collection** is included to test all available APIs:
